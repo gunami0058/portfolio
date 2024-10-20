@@ -11,7 +11,7 @@
   + 내용
     + 통계 기초 이론을 기반으로 R, Python, Qgis를 활용한 데이터 분석 교육 수강
     + 머신러닝을 활용한 부산광역시 실버도서관 신설 위치 도출 프로젝트 수행 (Python, Qgis 사용)
-      + [프로젝트](https://github.com/gunami0058/portfolio/blob/main/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B3%A0%EB%A0%B9%EC%B8%B5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%8B%A4%EB%B2%84%EB%8F%84%EC%84%9C%EA%B4%80%20%EC%9E%AC%EC%A0%95%EB%A6%BD.pdf)
+      + [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B3%A0%EB%A0%B9%EC%B8%B5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%8B%A4%EB%B2%84%EB%8F%84%EC%84%9C%EA%B4%80%20%EC%9E%AC%EC%A0%95%EB%A6%BD.pdf)
 
 <br/>
 
@@ -39,7 +39,7 @@
     + 캠퍼스를 격자로 나누고, 주요 건물 및 편의시설 등 변수를 설정하여 분석
     + 주성분 분석과 군집분석을 연결지어 정류장 설치가 필요한 위치 검출
     + R 사용
-    + [프로젝트](https://github.com/gunami0058/portfolio/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B5%90%EB%82%B4%20%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5%20%EC%8B%A0%EC%84%A4%20%EC%9C%84%EC%B9%98%20%EC%84%A0%EC%A0%95.pdf)
+    + [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B5%90%EB%82%B4%20%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5%20%EC%8B%A0%EC%84%A4%20%EC%9C%84%EC%B9%98%20%EC%84%A0%EC%A0%95.pdf)
 <br/>
 
 + __대구디지털혁신진흥원 현장실습 6개월__ (2022.09.05 ~ 2023.2.28)
@@ -50,12 +50,12 @@
     1. AI 기반 집단 급식소 식수 인원 예측 시스템 개발 
     <br/> -데이터 수집, 전처리, 모델 개발 , 모델 배포 및 서비스 웹사이트 구현
     <br/> - Python 사용
-    <br/> - [프로젝트](https://github.com/gunami0058/portfolio/blob/main/AI%EA%B8%B0%EB%B0%98%20%EC%8B%9D%EC%88%98%EC%98%88%EC%B8%A1%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EB%B0%9C.pdf)
+    <br/> - [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/AI%EA%B8%B0%EB%B0%98%20%EC%8B%9D%EC%88%98%EC%98%88%EC%B8%A1%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B0%9C%EB%B0%9C.pdf)
 
     3. 대구광역시 기업 지원 데이터 분석 
     <br/> - Spherical K-means 군집분석과 공저자 네트워크 분석 수행
     <br/> - Python 사용
-    <br/> - [프로젝트](https://github.com/gunami0058/portfolio/blob/main/%EC%A7%80%EC%9E%90%EC%B2%B4%20%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.pdf)
+    <br/> - [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%EC%A7%80%EC%9E%90%EC%B2%B4%20%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.pdf)
 
 <br/> 
 
@@ -66,7 +66,7 @@
       +  금융 상품 시장의 수치화된 정보를 분석하는 알고리즘을 설계, 분석한 정보를 빅데이터, AI 기술을 이용해 금융 상품 가격 예측 시스템을 구현 
       +  Open API를 통한 금융상품 데이터 수집과 딥러닝 모델 적합 및 예측 과정 자동화, 애플리케이션 구현
       +  Python 사용
-      +  [프로젝트](https://github.com/gunami0058/portfolio/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%88%EC%9C%B5%EC%83%81%ED%92%88%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84.pdf)
+      +  [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%88%EC%9C%B5%EC%83%81%ED%92%88%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84.pdf)
 
 <br/> 
 
