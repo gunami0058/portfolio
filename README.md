@@ -11,7 +11,7 @@
     + 머신러닝 기법을 활용하여 고령자 친화적 도서관 도입을 위한 입지 분석 프로젝트 진행
       + 부산시의 고령화와 도서관 인프라 부족 문제를 해결하기 위해 개선이 필요한 기존 도서관 파악 및 고령자를 위한 신규 실버도서관 입지 선정
       + 분석 내용 : 도서관별 향유도 분석을 통해 개선 대상 도서관 10개관을 선정(QGIS) / PCA, 군집분석, MCLP 모델을 활용하여 신규 입지 3곳을 도출 (Python)
-  + [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C%20%EA%B3%A0%EB%A0%B9%EC%B8%B5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%8B%A4%EB%B2%84%EB%8F%84%EC%84%9C%EA%B4%80%20%EC%9E%AC%EC%A0%95%EB%A6%BD.pdf)
+  + [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%EA%B3%A0%EB%A0%B9%EC%9E%90%20%EC%B9%9C%ED%99%94%EC%A0%81%20%EB%8F%84%EC%84%9C%EA%B4%80%20%EB%8F%84%EC%9E%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B8%B0%EB%B0%98%20%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D.pdf)
 
 <br/>
 
@@ -38,7 +38,7 @@
     + 캠퍼스 내 순환버스 노선의 불균형 문제를 해결하고자 학생들의 동선과 수요를 분석하여 최적의 버스 정류장 신설 위치를 도출하는 연구 수행
     + 분석 내용 : 캠퍼스 지도를 격자화하고 건물 및 시설 분포를 변수화한 뒤, PCA와 K-means 군집분석을 통해 정류장 설치가 필요한 위치 도출
     + R 프로그래밍 활용
-    + [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B5%90%EB%82%B4%20%EB%B2%84%EC%8A%A4%EC%A0%95%EB%A5%98%EC%9E%A5%20%EC%8B%A0%EC%84%A4%20%EC%9C%84%EC%B9%98%20%EC%84%A0%EC%A0%95.pdf)
+    + [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%ED%86%B5%EA%B3%84%EC%A0%81%20%EC%A0%91%EA%B7%BC%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EC%BA%A0%ED%8D%BC%EC%8A%A4%20%EB%B2%84%EC%8A%A4%20%EC%A0%95%EB%A5%98%EC%9E%A5%20%EC%8B%A0%EC%84%A4%20%EC%9C%84%EC%B9%98%20%EC%A0%9C%EC%95%88.pdf)
 
 <br/>
 
@@ -49,7 +49,23 @@
       +  주식 가격과 경제 뉴스를 분석하여 투자자들의 의사결정을 지원하는 자동화된 시스템을 구축
       +  PyQt5 기반의 GUI 애플리케이션을 통해 시계열 모델 기반의 주가 예측, 뉴스 키워드 분석, 매수/매도 타이밍 추천 등의 기능을 제공
       +  Python 사용
-      +  [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%88%EC%9석
+      +  [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B8%88%EC%9C%B5%EC%83%81%ED%92%88%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B5%AC%ED%98%84.pdf)
+
+<br/> 
+
++ __대구디지털혁신진흥원 현장실습 6개월__ (2022.09.05 ~ 2023.2.28)
+  + 기관 : 한국지능정보사회진흥원, 대구디지털혁신진흥원
+  + 활동명 : 데이터 분석 청년 인재 양성사업
+  + 직급 : 일경험수련생
+  + 주요 업무
+    1. AI 기반 집단 급식소 식수 인원 예측 시스템 개발 
+    <br/> - AI를 활용한 집단급식소 식수 인원 예측 시스템 구축
+    <br/> - 한식 메뉴 특성을 반영한 파생변수 생성을 통해 예측 모델 정확도 개선
+    <br/> - 실제 현장에 적용 후 기존 15-20%의 오차율을 5-10%로 개선
+    <br/> - 분석 결과를 웹 서비스로 구현하여 실무에서 즉시 활용 가능하도록 함
+    <br/> - [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/AI%20%EA%B8%B0%EB%B0%98%20%EC%A7%91%EB%8B%A8%EA%B8%89%EC%8B%9D%EC%86%8C%20%EC%8B%9D%EC%88%98%20%EC%98%88%EC%B8%A1%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95.pdf)
+
+    2. 지자 기업 지원 데이터 분석 
     <br/> - Spherical K-means 군집분석과 공저자 네트워크 분석 수행
     <br/> - Python 사용
     <br/> - [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%EC%A7%80%EC%9E%90%EC%B2%B4%20%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.pdf)
