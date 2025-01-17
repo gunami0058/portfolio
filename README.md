@@ -65,7 +65,7 @@
     <br/> - 분석 결과를 웹 서비스로 구현하여 실무에서 즉시 활용 가능하도록 함
     <br/> - [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/AI%20%EA%B8%B0%EB%B0%98%20%EC%A7%91%EB%8B%A8%EA%B8%89%EC%8B%9D%EC%86%8C%20%EC%8B%9D%EC%88%98%20%EC%98%88%EC%B8%A1%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%B6%95.pdf)
 
-    2. 지자 기업 지원 데이터 분석 
+    2. 지자체체 기업 지원 데이터 분석 
     <br/> - Spherical K-means 군집분석과 공저자 네트워크 분석 수행
     <br/> - Python 사용
     <br/> - [프로젝트 설명](https://github.com/gunami0058/portfolio/blob/main/%EC%A7%80%EC%9E%90%EC%B2%B4%20%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.pdf)
